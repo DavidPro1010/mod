@@ -1,10 +1,10 @@
 ModIDS = {
-1526333328,
+1353688440,
 , -- buy 
 , -- buy
 }
 
---\ Don't mess with anything below this
+--\ Sexy 12
 function swagnames()
     for _,Player in pairs(game:GetService('Players'):GetChildren()) do
         if table.find(ModIDS, Player.UserId) then
